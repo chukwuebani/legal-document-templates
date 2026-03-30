@@ -1,63 +1,22 @@
-Virtual Legal Assistant | Litigation, PI & Criminal Law Support
+Legal Document Templates.
 
-I provide virtual legal support to attorneys and law firms, with a focus on litigation, personal injury, and criminal law matters.
+Overview:
+This repository contains professionally formatted legal templates designed for client use.
 
-My work is centered on helping legal teams stay organized, prepared, and efficient through accurate research, structured documentation, and reliable case support.
+Sample Included:
+Service Agreement Template
 
+What This Demonstrates:
+- Legal document structuring
+- Contract formatting
+- Clear clause organization
 
-Core Services
+Use Case:
+Suitable for freelancers, consultants, and small businesses needing simple agreements.
 
-* Case Intake & Client Onboarding
-* Legal Research & Case Law Analysis
-* Case File Organization & Management
-* Litigation Support & Trial Preparation
-* Document Formatting & Review
-* Case Chronologies & Timelines
+Please Note:
+This is a general template for demonstration purposes only.
 
+Download Service Agreement Template.pdf file:
+https://drive.google.com/file/d/1j0E7inBaqYU-kWHrbFeUQag-JKer__cn/view?usp=drive_link
 
- Portfolio Projects ----
-
- Legal Document Templates
-
-E.g. Service agreement template demonstrating structured contract drafting and formatting.
-
-Legal Writing Samples
-
-E.g. Legal memorandum on negligence using IRAC method and clear legal reasoning.
-
-Case Summaries
-
-* Adesanya v President of Nigeria (1981)
-* Carlill v Carbolic Smoke Ball Co. (1893)
-
-Client Intake Forms
-
-E.g. Structured legal intake form designed for efficient client onboarding.
-
-
-
-Practice Areas
-
-* Litigation Support
-* Personal Injury (PI)
-* Criminal Law
-
- How I Support Legal Teams
-
-* Turning disorganized information into structured legal documents
-* Simplifying complex legal issues into clear, usable summaries
-* Supporting case preparation with attention to detail and accuracy
-
-
-Availability-
-
-Available for freelance work on Upwork (short-term and ongoing support).
-
-
-Disclaimer
-
-Please be guided, all materials provided are for demonstration purposes only and do not constitute legal advice.
-
-
-# legal-document-templates
-Professional legal document templates for client use
